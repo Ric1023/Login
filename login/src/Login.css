@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
+
+.login-container {
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  border-color: red;
+  border-width: 2px;
+  border-style: solid;
+  width: 500px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.login-header {
+  color: black;
+  font-family: 'Matemasie', 'cursive';
+}
+
+.username-div {
+  margin-top: 30px;
+}
+
+.password-div {
+  margin-top: 20px;
+}
+
+.login-label {
+  color: black;
+  font-family: 'Matemasie', 'cursive';
+  margin-right: 10px;
+  font-size: 24px;
+}
+
+.login-input {
+  width: 200px;
+  height: 20px;
+}
+
+.login-button {
+  margin-top: 30px;
+  width: 100px;
+  height: 30px;
+  background-color: #65f04f;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  font-family: 'Matemasie', 'cursive';
+}
