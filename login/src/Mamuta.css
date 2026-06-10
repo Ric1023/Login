@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
+
+.mamuta-header {
+  color: rgb(255, 255, 255);
+  font-family: 'Matemasie', 'cursive';
+}
+
+.mamuta-content {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+
+}
+
+.mamuta-game-container {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 350px;
+  background-color: rgb(212, 212, 212);
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.game-title {
+  color: black;
+  font-family: 'Matemasie', 'cursive';
+  font-size: 24px;
+}
+
+.mamuta-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.mamuta-description {
+  color:black;
+  font-family: 'Matemasie', 'cursive';
+  font-size: 16px;
+}
+
+
+.mamuta-piklopedia-container {
+  margin-top: 20px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: red;
+  background-color: rgb(212, 212, 212);
+}
+
+.mamuta-piklopedia {
+  font-family: 'Matemasie', 'cursive';
+  font-size: 16px;
+  color: black;
+}
+
+.mamuta-link {
+  color: blue;
+  text-decoration: underline;
+}
